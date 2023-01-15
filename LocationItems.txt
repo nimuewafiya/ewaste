@@ -1,0 +1,4 @@
+1,SUBANG JAYA,SS15 47500 Subang Jaya Selangor,SS18/3 47500 Subang Jaya,D3-00-10 Subang Perdana Goodyear Court 4 Jalan Kewajipan UEP Subang Jaya 47600 Subang Jaya
+2,PUCHONG,Pusat Kitar Semula Bukit Kuchai Jalan 26 Taman Bukit Kuchai 47100 Puchong,Jalan Puteri 7/8 Bandar Puteri 47100 Puchong Selangor,Pusat Kitar Semula Zon 16 Bandar Puteri Jalan Puteri 7/8 Bandar Puteri 47100 Puchong Selangor
+3,PETALING JAYA,No.23-G 25-G 25-1 & 25-2 Jalan SS2/75 47300 Petaling Jaya Selangor,Pusat Komuniti MBPJ Jalan SS3/39 47300 Petaling Jaya Selangor,Jalan ss8/39 Sungai Way Free Trade Industrial Zone 47300 Petaling Jaya Selangor
+4,SHAH ALAM,G-60F Tingkat Bawah Kompleks PKNS Shah Alam Persiaran Tasik Seksyen 14 40000 Shah Alam Selangor,Jalan Pelapik U8/46 Bukit Jelutong 40150 Shah Alam Selangor,Lot 8 Jalan Beremban 15/12 Seksyen 15 40200 Shah Alam Selangor
