@@ -1,0 +1,1 @@
+A command line interpretation of a recycling application whereby users get to redeem and use collected points based on what they recycle within the application. Reading and writing into files is used as the storing mechanism in this project.
